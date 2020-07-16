@@ -3,8 +3,11 @@ package com.apple.master;
 public class Master {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		
+		System.out.println("Stash Barnch One changes"); // 
+		System.out.println("Stash Branch Master changes"); // 
+		
 	}
 
 }
